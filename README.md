@@ -1,4 +1,4 @@
-# Jerry's AI Playground
+# Troy's AI Playground
 
 This repo includes the tools based on **OpenAI**, **LangChain** and **Streamlit** to increase working efficiency.
 1. Auto Meeting Minutes is a tool to chat with video/audio and output the meeting minutes with build-in prompt.
